@@ -332,6 +332,7 @@ a {
   background: linear-gradient(43deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 46%, rgb(255, 204, 112) 100%);
 
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: 800;
 }
@@ -703,6 +704,7 @@ a {
 
   background: linear-gradient(43deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 46%, rgb(255, 204, 112) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   width: fit-content;
   margin: 0 auto;
@@ -1120,6 +1122,7 @@ a {
   /* color: #c2c2c225; */
   background: linear-gradient(#c2c2c225 0%, #c2c2c213 20%, rgb(0, 0, 0) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
   filter: contrast(105%);
@@ -1135,6 +1138,7 @@ a {
   /* color: #8a06be; */
   background: linear-gradient(43deg, rgb(65, 88, 208) 0%, rgb(200, 80, 192) 46%, rgb(255, 204, 112) 100%);
   -webkit-background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
   width: fit-content;
   font-weight: 700;
