@@ -1702,3 +1702,10 @@ textarea {
   font-size: 0.7rem;
   color: gray;
 }
+
+/* Added for typing text visibility */
+.role {
+  color: #a855f7;
+  font-weight: bold;
+  display: inline-block;
+}
