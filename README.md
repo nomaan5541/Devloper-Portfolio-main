@@ -6,7 +6,7 @@
 
 ## 🌐 LIVE DEMO
 
-**[View the Portfolio](https://free-portfolio-aayush.vercel.app/)**
+**[View the Portfolio]()**
 
 ---
 
@@ -48,8 +48,7 @@ Check out the demo: **[Click here]()**
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: [iAayushBharti@gmail.com](mailto:iAayushBharti@gmail.com)
-- **LinkedIn**: [Aayush Bharti on LinkedIn](https://www.linkedin.com/in/iaayushbharti/)
+- **Email**: [nomaankhannfs2@gmail.com](mailto: nomaankhannfs2@gmail.com)
 
 ---
 
